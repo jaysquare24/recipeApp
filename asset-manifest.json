@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/favorterecipesapp/static/css/main.30c6966b.css",
-    "main.js": "/favorterecipesapp/static/js/main.50193ae1.js",
-    "index.html": "/favorterecipesapp/index.html",
-    "main.30c6966b.css.map": "/favorterecipesapp/static/css/main.30c6966b.css.map",
-    "main.50193ae1.js.map": "/favorterecipesapp/static/js/main.50193ae1.js.map"
+    "main.css": "/recipeApp/static/css/main.30c6966b.css",
+    "main.js": "/recipeApp/static/js/main.50193ae1.js",
+    "index.html": "/recipeApp/index.html",
+    "main.30c6966b.css.map": "/recipeApp/static/css/main.30c6966b.css.map",
+    "main.50193ae1.js.map": "/recipeApp/static/js/main.50193ae1.js.map"
   },
   "entrypoints": [
     "static/css/main.30c6966b.css",
