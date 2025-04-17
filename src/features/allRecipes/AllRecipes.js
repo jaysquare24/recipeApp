@@ -13,10 +13,14 @@ export const AllRecipes = () => {
   const allRecipes = useSelector(selectFilteredAllRecipes);
   const dispatch = useDispatch();
 
-  const onFirstRender = () => {
+  /*const onFirstRender = () => {
     dispatch(loadData());
   }
-  useEffect(onFirstRender, [dispatch]);
+  useEffect(onFirstRender, [dispatch]);*/
+
+  useEffect(() => {
+    dispatch(loadData());
+  }, [dispatch]);
   
   const onAddRecipeHandler = (recipe) => {
     dispatch(addRecipe(recipe));
