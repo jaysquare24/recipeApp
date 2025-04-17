@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favorterecipesapp/static/css/main.30c6966b.css",
+    "main.js": "/favorterecipesapp/static/js/main.50193ae1.js",
+    "index.html": "/favorterecipesapp/index.html",
+    "main.30c6966b.css.map": "/favorterecipesapp/static/css/main.30c6966b.css.map",
+    "main.50193ae1.js.map": "/favorterecipesapp/static/js/main.50193ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c6966b.css",
+    "static/js/main.50193ae1.js"
+  ]
+}
